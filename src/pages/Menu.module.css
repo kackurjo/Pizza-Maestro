@@ -1,0 +1,16 @@
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 95vh;
+  justify-content: center;
+  align-items: center;
+  overflow-y: auto;
+}
+
+.dayDiv {
+  border-top: 2px solid #F0EAD6;
+  width: 80vw;
+  padding: 0 2vw;
+  margin-top: 2vh;
+}
