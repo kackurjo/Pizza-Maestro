@@ -10,7 +10,7 @@ body {
   color: #010100;
   background-color: #F0EAD6;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url(homePizza.jpg);
+    url('/homePizza.jpg');
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
